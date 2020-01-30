@@ -1,2 +1,2 @@
-# SolarSysSpec01
+# SolarSysSpec
 Solar System Specifier Project
